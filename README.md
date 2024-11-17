@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Maurice-Banda
+- 👀 I’m interested in solving  a variety  of computer  problems  
+- 🌱 I’m currently learning C++,HTML,CSS etc.
+- 💞️ I’m looking to collaborate on a number  of  different  softwares.
+- 📫 How to reach me on  mauricebanda71@gmail.com 
